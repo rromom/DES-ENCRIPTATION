@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Application C</string>
+    <string name="enviar">Enviar</string>
+    <string name="title">Data Encryption Standard</string>
+    <string name="title2">Encriptación por Texto:</string>
+    <string name="inputtext">Ingrese el texto</string>
+    <string name="resultado">Resultado:</string>
+    <string name="title3">Encriptacion por Imagen:</string>
+    <string name="selectimage">Seleccionar Imagen</string>
+    <string name="file">Imagen</string>
+    <string name="enviarimage">Enviar</string>
+    <string name="imagen">imagen</string>
+    <string name="photo">TOMAR FOTO</string>
+    <string name="resptitle11">Texto Encriptado:</string>
+    <string name="resptitle12">Tiempo de encriptación:</string>
+    <string name="resptitle13">Tiempo de desencriptado:</string>
+    <string name="resptitle4">Tiempo Total:</string>
+    <string name="resptit5">Uso de memoria:</string>
+    <string name="imgetitle">Imagen Encriptada:</string>
+    <string name="btnfile">SELECCIONAR DOCUMENTO</string>
+    <string name="analizar_datos">Analizar Datos</string>
+    <string name="an_lisis_de_datos">ANÁLISIS DE DATOS</string>
+</resources>
